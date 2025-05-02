@@ -7,7 +7,7 @@ mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
 $host = "localhost";
 $user = "root";
-$pass = "Arraya371121#"; // Ganti dengan password MySQL Anda
+$pass = "latihan123";
 $db = "toko_elektronik";
 
 try {
